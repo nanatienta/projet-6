@@ -11,4 +11,4 @@ Launch Webpack Server (for development) :
 npm start
 Open the application :
 
-http://localhost:8080/
+file:///Users/nana/Desktop/projet%206/index.html?titreLivre=livre&auteurLivre=auteur
